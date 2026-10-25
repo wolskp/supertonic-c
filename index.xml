@@ -2,11 +2,11 @@
 <level>
   <owner>wolskp</owner>
   <repo>supertonic-c</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="wolskp" repo="supertonic-1-4-5"/>
   <readme>
-    <ru>9b08ad776a5d5f3af65fd8c605a3cbf35ef95840d9d30fc0844ecc7977d84c85</ru>
-    <en>31403ccae362ba39ed4312de811fe7c8194d9ea6529f59e159462cc8dcdd469d</en>
+    <ru>fca54ed60ebc82c7eac067ddc3ece62b390489f111171653e5c4db4b9218a7cd</ru>
+    <en>6665a2bccfa35c89823ba2649b3ea9d03c9744dfa4cc838dfb194402eb7d8182</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
